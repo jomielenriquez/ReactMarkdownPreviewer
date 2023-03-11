@@ -1,2 +1,2 @@
 # ReactMarkdownPreviewer
-Created with CodeSandbox
+This is a markdown previewer created using react
