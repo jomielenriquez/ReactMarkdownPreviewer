@@ -108,7 +108,7 @@ And if you want to get really crazy, even tables:
 
 ||Table Name|Type|Comment|
 |:--:|:--:|:--:|:--:|
-|:key:|CID|INT(11)||
+||CID|INT(11)||
 ||FILETYPE|VARCHAR(10)|IMG - image, VID - video, TXT - text|
 ||FILELOCATION|VARCHAR(250)|location of the file|
 ||TEXTHEADER|VARCHAR(50)|Announcement header if text|
@@ -128,7 +128,7 @@ And if you want to get really crazy, even tables:
 - Even if you use dashes or asterisks.
 * And last but not least, let's not forget embedded images:
 
-![React Logo w/ Text](https://goo.gl/Umyytc)
+![React Logo w/ Text](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 `;
 
 const rootElement = document.getElementById("root");
